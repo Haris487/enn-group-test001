@@ -2,5 +2,5 @@
 
 ## usage
 
-git clone https://github.com/Haris487/enn-group-test001.git
-python test.py
+### git clone https://github.com/Haris487/enn-group-test001.git
+### python test.py
