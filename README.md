@@ -3,4 +3,5 @@
 ## usage
 
 ### git clone https://github.com/Haris487/enn-group-test001.git
-### python test.py
+### python enn-group-test001/test.py 
+
